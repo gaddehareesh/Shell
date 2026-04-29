@@ -10,6 +10,7 @@
 #   Please provide your github token and rest api to the script as input
 #  i just use this for update description in the shell
 #
+# new desc
 ################################
 
 if [ ${#@} -lt 2 ]; then
